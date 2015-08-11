@@ -58,7 +58,7 @@ XXX **Mortgage Calculator** - Calculate the monthly payments of a fixed term mor
 
 XXX **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+XXX **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
